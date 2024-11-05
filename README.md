@@ -3,9 +3,11 @@
 This package provides tools and strategies for enhancing individual fairness in continual learning within federated learning settings. It introduces novel fairness metrics and client selection strategies specifically designed to maintain temporal fairness across clients in a continual federated learning (CFL) context.
 
 **Key Features**
+
 Fairness Metrics:
 
 Delta Accuracy Fairness (DAF) is tailored to assess and maintain fairness over time in CFL by measuring accuracy and retention disparities among clients.
+
 Client Selection Strategies:
 
 Strategies such as Low Participation, Low Accuracy, and Low Average are implemented to prioritize fairness by addressing knowledge retention inequalities, with comprehensive analysis showing their effectiveness in promoting stability and equity over time.
