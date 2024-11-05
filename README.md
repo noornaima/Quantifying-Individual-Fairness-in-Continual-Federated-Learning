@@ -6,7 +6,8 @@ This package provides tools and strategies for enhancing individual fairness in 
 
 Fairness Metrics:
 
-Delta Accuracy Fairness (DAF) is tailored to assess and maintain fairness over time in CFL by measuring accuracy and retention disparities among clients.
+Delta Accuracy Fairness (DAF) and Delta Forgetting Fairness (DFF)—two metrics tailored to assess and maintain fairness over time in CFL by measuring accuracy and retention disparities among clients.
+
 
 Client Selection Strategies:
 
